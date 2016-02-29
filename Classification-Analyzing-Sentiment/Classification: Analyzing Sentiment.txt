@@ -1,1 +1,3 @@
 These files will have code for practice and assignment exercises. License to access graphlab create is required for these exercises .Hence one can register in the following website https://dato.com/legal/license-policy.html for a limited period free license.
+
+The raw data exceeds 25MB so the data can be either taken from the coursera https://www.coursera.org/learn/ml-foundations/supplement/phb1M/reading-analyzing-product-sentiment-assignment or AWS
