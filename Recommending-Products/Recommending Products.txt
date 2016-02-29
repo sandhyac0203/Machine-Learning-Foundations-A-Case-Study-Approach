@@ -1,0 +1,12 @@
+This post will have python code for machine learning foundations- A case study in coursera.Below is the link
+
+https://www.coursera.org/learn/ml-foundations/home/
+
+These files contain the code for both the practice and assignment exercises.
+
+The raw data can be found either on the coursera page or in the Amazon web services.
+
+License to access graphlab create is required for these exercises .
+Hence one can register in the following website https://dato.com/legal/license-policy.html for a limited period free license.
+
+ 
